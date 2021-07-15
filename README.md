@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is [Sagar Patel](https://www.linkedin.com/in/sagarpatel9001/) and I'm a data analyst focused on building stronger collaborations with UR and other player centric roles, to better understand the player base and find new ways to harness consumer data to answer research questions and deliver insights within the games industry.
+
 <!--
 **Autonomousse/Autonomousse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
