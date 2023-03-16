@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is [Sagar Patel](https://www.linkedin.com/in/sagarpatel9001/) and I'm a data analyst focused on leveraging data to increase efficiencies and generate key business insights to enable companies to make sound decisions. Currently interested in tech, games, e-commerce, and retail spaces.
+My name is [Sagar Patel](https://www.linkedin.com/in/sagarpatel9001/) and I'm a data analyst focused on leveraging data to increase efficiencies and generate key business insights to enable companies to make sound decisions.
 
 Some of my skills include:
 - Python
